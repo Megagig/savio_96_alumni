@@ -25,7 +25,7 @@ export default function Home() {
         </div>
         <div>
           <Link
-            href="/store"
+            href="/members"
             className="bg-purple-700 text-white hover:bg-purple-900 p-3 rounded-sm text-lg text mr-2"
           >
             Click To See The Members
