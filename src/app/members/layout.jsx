@@ -1,3 +1,5 @@
+import Sidebar from '../components/sidebar/Sidebar';
+
 export const metadata = {
   title: 'Savio 96 Alumni Association',
   description: 'Track online payment of association dues',
@@ -6,7 +8,10 @@ export const metadata = {
 export default function MembersLayout({ children }) {
   return (
     <div className="flex xs:flex-col sm:flex-col md:flex-row lg:flex-row xl:flex-row min-h-screen">
-      <div className="flex flex-wrap p-2 justify-center">{children}</div>
+      <div className="flex flex-wrap p-2 justify-center">
+        <Sidebar />
+        {children}
+      </div>
     </div>
   );
 }
