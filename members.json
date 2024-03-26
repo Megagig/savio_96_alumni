@@ -64,134 +64,134 @@
   },
   {
     "_id": "4",
-    "name": "Nwankwor Remigius",
+    "name": "Ekwunife Alphonsus",
     "Profession": "Rev. Fr, Serving in Awka Diocese.",
     "Address": {
-      "street": "12 Ifite Awka Street",
-      "city": "Awka",
-      "state": "Anambra State"
+      "street": "12 Rumogbolu Street",
+      "city": "Port Harcourt",
+      "state": "Rivers State"
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "Ekwu",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/remi.jpg",
+    "image": "/members/ekwunife.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
     "_id": "5",
-    "name": "Nwankwor Remigius",
-    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "name": "Anahalu Christian",
+    "Profession": "Thermal Desorption Unit Plant Operator. at Frigate Upstream & Energy Services LTD.",
     "Address": {
-      "street": "12 Ifite Awka Street",
-      "city": "Awka",
-      "state": "Anambra State"
+      "street": "17 Rumogbolu Street",
+      "city": "Port Harcourt",
+      "state": "Rivers State"
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "Amobi",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/onwe.jpg",
+    "image": "/members/amobi.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
     "_id": "6",
-    "name": "Nwankwor Remigius",
-    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "name": "Umensofor Anthony",
+    "Profession": "Businessman, Deals on Drinks and Consumables",
     "Address": {
-      "street": "12 Ifite Awka Street",
-      "city": "Awka",
-      "state": "Anambra State"
+      "street": "13 Emene Road Transekulu",
+      "city": "Enugu",
+      "state": "Enugu State"
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "Galami",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/remi.jpg",
+    "image": "/members/umensofor.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
     "_id": "7",
-    "name": "Nwankwor Remigius",
-    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "name": "Ngene Michael",
+    "Profession": "Nurse Practioner.",
     "Address": {
-      "street": "12 Ifite Awka Street",
-      "city": "Awka",
-      "state": "Anambra State"
+      "street": "12 Gwalimpa  Street",
+      "city": "Abuja",
+      "state": "FCT"
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "Mich",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/remi.jpg",
+    "image": "/members/ngene.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
     "_id": "8",
-    "name": "Nwankwor Remigius",
-    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "name": "Okpala Paul",
+    "Profession": "Student at Lincoln University, Lincolnshire UK.",
     "Address": {
-      "street": "12 Ifite Awka Street",
-      "city": "Awka",
-      "state": "Anambra State"
+      "street": "Lincoln University, Lincolnshire UK",
+      "city": "Lincolnshire",
+      "state": "UK"
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "Paulo",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/obubo.jpg",
+    "image": "/members/paul.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
     "_id": "9",
-    "name": "Nwankwor Remigius",
+    "name": "Ukommadu Stanley",
     "Profession": "Rev. Fr, Serving in Awka Diocese.",
     "Address": {
-      "street": "12 Ifite Awka Street",
-      "city": "Awka",
-      "state": "Anambra State"
+      "street": "4895 Pemba Road, Mozambique",
+      "city": "Maputo",
+      "state": "Mozambique"
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "Chinenye",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/obubo.jpg",
+    "image": "/members/ukommadu.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
     "_id": "10",
-    "name": "Nwankwor Remigius",
-    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "name": "Vitus Ikeh ",
+    "Profession": "Businessman",
     "Address": {
       "street": "12 Ifite Awka Street",
       "city": "Awka",
@@ -199,12 +199,12 @@
     },
 
     "personal_info": {
-      "aka": "Awa",
+      "aka": "vitus",
       "email": "john@gmail.com",
       "birthday": "1980-01-01",
       "phone": "080850500054"
     },
-    "image": "/members/onwe.jpg",
+    "image": "/members/vitus.jpg",
     "is_featured": false,
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
