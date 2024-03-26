@@ -19,7 +19,7 @@ const MemberCard = ({ member }) => {
       <div className="p-4">
         <h3 className="text-lg font-semibold">{member.name}</h3>
         <p className="text-gray-500">{member.Profession}</p>
-        <Link href="/members/1" className="text-blue-500">
+        <Link href={`/members/${member._id}`} className="text-blue-500">
           View Profile
         </Link>
       </div>
