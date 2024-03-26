@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "1",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/remi.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "2",
+    "name": "obuboegbunam pius",
+    "Profession": "Civil Servant working With Anambra State Government.",
+    "Address": {
+      "street": "15 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "obubo",
+      "email": "obubo@gmail.com",
+      "birthday": "1983-01-01",
+      "phone": "08023457856"
+    },
+    "image": "/members/obubo.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "3",
+    "name": "onwe joseph",
+    "Profession": "Businessman",
+    "Address": {
+      "street": "30 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "joe",
+      "email": "johnmark@gmail.com",
+      "birthday": "1984-01-01",
+      "phone": "080850800054"
+    },
+    "image": "/members/onwe.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "4",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/remi.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "5",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/onwe.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "6",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/remi.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "7",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/remi.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "8",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/obubo.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "9",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/obubo.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "10",
+    "name": "Nwankwor Remigius",
+    "Profession": "Rev. Fr, Serving in Awka Diocese.",
+    "Address": {
+      "street": "12 Ifite Awka Street",
+      "city": "Awka",
+      "state": "Anambra State"
+    },
+
+    "personal_info": {
+      "aka": "Awa",
+      "email": "john@gmail.com",
+      "birthday": "1980-01-01",
+      "phone": "080850500054"
+    },
+    "image": "/members/onwe.jpg",
+    "is_featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
