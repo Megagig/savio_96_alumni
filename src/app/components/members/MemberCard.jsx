@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import members from '/members.json';
 
 const MemberCard = ({ member }) => {
   return (
